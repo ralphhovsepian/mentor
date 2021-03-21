@@ -2,7 +2,12 @@
   "name": "mentor",
   "displayName": "mentor",
   "expo": {
+    "splash": {
+      "image": "./assets/splash.png",
+      "backgroundColor": "#fff",
+    },
     "name": "mentor",
+    "orientation": "portrait",
     "slug": "mentor",
     "version": "1.0.0",
     "assetBundlePatterns": [
